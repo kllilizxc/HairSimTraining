@@ -150,6 +150,7 @@
     <ClInclude Include="HairGraph.h" />
     <ClInclude Include="HairRaw.h" />
     <ClInclude Include="HairTransform.h" />
+    <ClInclude Include="METISGraphBuilder.h" />
     <ClInclude Include="Particle.h" />
     <ClInclude Include="ParticleTransform.h" />
     <ClInclude Include="ReducedHairGraph.h" />
@@ -162,6 +163,7 @@
     <ClCompile Include="HairRaw.cpp" />
     <ClCompile Include="HairTransform.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="METISGraphBuilder.cpp" />
     <ClCompile Include="Particle.cpp" />
     <ClCompile Include="ParticleTransform.cpp" />
     <ClCompile Include="ReducedHairGraph.cpp" />
